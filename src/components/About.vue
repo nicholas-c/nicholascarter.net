@@ -4,8 +4,8 @@
       Nicholas Carter
     </h2>
 
-    <h3 class="font-thin  text-lg  leading-tight  mb-6  text-teal">
-      Senior Interface Developer
+    <h3 class="font-thin  text-xl  leading-tight  mb-6  text-teal">
+      Senior Frontend Developer
     </h3>
 
     <p class="text-base  leading-normal">
